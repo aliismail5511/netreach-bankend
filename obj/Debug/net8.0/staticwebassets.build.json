@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XS2NaQu+7X8prlaWXUgi66t2ZYiW/z4awMUlMxWPtMw=",
+  "Source": "NetReach.Api",
+  "BasePath": "_content/NetReach.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
